@@ -1,0 +1,111 @@
+.lifestyle h1 {
+    position: absolute;
+    color: white;
+    top: 200px;
+    left: 420px;
+    font-family: "PT Serif", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.lifestyle p {
+    position: absolute;
+    color: white;
+    top: 340px;
+    left: 420px;
+}
+.sec{
+    position: relative;
+    background: #020102;
+    padding-bottom: 150px;
+}
+.sec1{
+    position: relative;
+    background: #020102;
+    padding-bottom: 300px;
+}
+.food img{
+    height: 400px;
+    position: relative;
+    left: 330px;
+}
+.equip img{
+    height: 400px;
+    position: relative;
+    left: 320px;
+}
+.daily img{
+    height: 400px;
+    position: relative;
+    left: 320px;
+}
+.title h2{
+    color: white;
+    font-family: "PT Serif", serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 30px;
+    position: relative;
+    top: -150px;
+    left: 265px;
+    padding-top: 2px;
+    padding-bottom: 20px;
+}
+.title2 h2{
+    color: white;
+    font-family: "PT Serif", serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 30px;
+    position: relative;
+    top: -150px;
+    left: 330px;
+    padding-bottom: 20px;
+}
+.content p{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 15px;
+    position: relative;
+    top: -150px;
+    left: 220px;
+    justify-content: center;
+    text-align: justify;
+}
+.content{
+    padding-right: 450px;
+}
+.link p{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 15px;
+    position: relative;
+    top: -130px;
+    left: 340px;
+}
+.link a{
+    color: white;
+}
+.link a:hover{
+    color: #ec9f10f3;
+}
+
+.link2 p{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 15px;
+    position: relative;
+    top: -130px;
+    left: 370px;
+}
+.link2 a{
+    color: white;
+}
+.link2 a:hover{
+    color: #ec9f10f3;
+}

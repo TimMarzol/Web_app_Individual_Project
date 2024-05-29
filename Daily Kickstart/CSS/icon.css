@@ -1,0 +1,74 @@
+.icon a{
+    position: absolute;
+    font-size: 30px;
+    color: #ec9f10f3;
+    transform:translate(-50%,-50%);
+}
+.icon a:hover{
+    color: white;
+    transition: .5s;
+    cursor: pointer;
+}
+.credit{
+    position: relative;
+    top: 230px;
+    left: 500px;
+    font-size: 13px;
+    font-family: "Montserrat", sans-serif;
+}
+.credit1{
+    position: relative;
+    top: 247px;
+    left: 520px;
+    font-size: 13px;
+    font-family: "Montserrat", sans-serif;
+}
+.credit2{
+    position: relative;
+    top: 247px;
+    left: 520px;
+    font-size: 13px;
+    font-family: "Montserrat", sans-serif;
+}
+.youtube{
+    position: absolute;
+    z-index: 1;
+    top: 360px;
+    left: 47%;
+    transition: 1s;
+}
+.facebook{
+    position: absolute;
+    z-index: 1;
+    top: 360px;
+    left: 38%;
+    transition: 1s;
+}
+.instagram{
+    position: absolute;
+    z-index: 1;
+    top: 360px;
+    left: 56%;
+    transition: 1s;
+}
+.youtube1{
+    position: absolute;
+    z-index: 1;
+    top: 570px;
+    left: 47%;
+    transition: 1s;
+}
+.facebook1{
+    position: absolute;
+    z-index: 1;
+    top: 570px;
+    left: 38%;
+    transition: 1s;
+}
+.instagram1{
+    position: absolute;
+    z-index: 1;
+    top: 570px;
+    left: 56%;
+    transition: 1s;
+}
